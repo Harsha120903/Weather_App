@@ -1,0 +1,1 @@
+##It's  a Weather Forecating Application where the data is fetched using "Pubilc API".
